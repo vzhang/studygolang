@@ -1,16 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f10fd0a7-6d5e-4f0b-aa55-bfa640fa9c73" name="Default Changelist" comment="" />
+    <list default="true" id="f10fd0a7-6d5e-4f0b-aa55-bfa640fa9c73" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ch01/dup.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch01/dup1.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch01/dup2.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch01/dup3.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch01/dup4.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch01/echo1.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch01/echo2.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch01/echo3.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch01/echo4.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch01/echo5.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch01/exercise/fetch1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch01/exercise/fetch1.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch01/fetch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch01/fetch.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch01/lissajous" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch01/lissajous.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch01/out.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch01/helloworld.go" beforeDir="false" afterPath="$PROJECT_DIR$/ch01/helloworld.go" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+        <option value="Go Application" />
+      </list>
+    </option>
+  </component>
   <component name="GOROOT" path="/usr/local/Cellar/go/1.13.3/libexec" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1TYJPMI4qWQXa3pZlXRDj40xZVU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultGoTemplateProperty" value="Go Application" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="ask.go.tool.to.install.GoImportsTaskConsumer" value="true" />
     <property name="go.import.settings.migrated" value="true" />
@@ -29,7 +66,74 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="Go Build.go build lissajous.go">
+    <configuration name="go build dup1.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="studygolang" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/ch01/dup1.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build dup2.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="studygolang" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/ch01/dup2.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build echo4.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="studygolang" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/ch01/echo4.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build echo5.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="studygolang" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/ch01/echo5.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build lissajous.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="studygolang" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/ch01/lissajous.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build lissajous.go" />
+        <item itemvalue="Go Build.go build dup2.go" />
+        <item itemvalue="Go Build.go build dup1.go" />
+        <item itemvalue="Go Build.go build echo5.go" />
+        <item itemvalue="Go Build.go build echo4.go" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
