@@ -2,25 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f10fd0a7-6d5e-4f0b-aa55-bfa640fa9c73" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ch01/dup.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch01/dup1.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch01/dup2.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch01/dup3.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch01/dup4.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch01/echo1.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch01/echo2.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch01/echo3.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch01/echo4.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch01/echo5.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch01/exercise/fetch1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch01/exercise/fetch1.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch01/fetch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch01/fetch.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch01/lissajous" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch01/lissajous.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch01/out.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch01/exercise/fetch2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch01/exercise/fetch2.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch01/exercise/fetch3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch01/exercise/fetch3.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch01/fetchall.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch01/helloworld.go" beforeDir="false" afterPath="$PROJECT_DIR$/ch01/helloworld.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
