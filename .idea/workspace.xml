@@ -2,12 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f10fd0a7-6d5e-4f0b-aa55-bfa640fa9c73" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ch01/exercise/fetch2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch01/exercise/fetch2.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch01/exercise/fetch3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch01/exercise/fetch3.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch01/fetchall.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch01/exercise/server1.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch01/server1.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch01/server2/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch01/server3/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch02/boiling/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch02/ftoc/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch01/lissajous" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch01/lissajous.go" beforeDir="false" afterPath="$PROJECT_DIR$/ch01/lissajous/main.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,6 +44,12 @@
     <property name="last_opened_file_path" value="$USER_HOME$" />
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ch01/lissajous" />
+      <recent name="$PROJECT_DIR$/ch01/server2" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -53,7 +62,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build lissajous.go">
+  <component name="RunManager" selected="Go Build.go build main.go (1)">
     <configuration name="go build dup1.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="studygolang" />
       <working_directory value="$PROJECT_DIR$/" />
@@ -70,22 +79,6 @@
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build echo4.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="studygolang" />
-      <working_directory value="$PROJECT_DIR$/" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/ch01/echo4.go" />
-      <directory value="$PROJECT_DIR$/" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build echo5.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="studygolang" />
-      <working_directory value="$PROJECT_DIR$/" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/ch01/echo5.go" />
-      <directory value="$PROJECT_DIR$/" />
-      <method v="2" />
-    </configuration>
     <configuration name="go build lissajous.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="studygolang" />
       <working_directory value="$PROJECT_DIR$/" />
@@ -94,13 +87,29 @@
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
+    <configuration name="go build main.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="studygolang" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/ch02/ftoc/main.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="studygolang" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/ch02/boiling/main.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build main.go (1)" />
+        <item itemvalue="Go Build.go build main.go" />
         <item itemvalue="Go Build.go build lissajous.go" />
         <item itemvalue="Go Build.go build dup2.go" />
         <item itemvalue="Go Build.go build dup1.go" />
-        <item itemvalue="Go Build.go build echo5.go" />
-        <item itemvalue="Go Build.go build echo4.go" />
       </list>
     </recent_temporary>
   </component>
