@@ -37,7 +37,7 @@ func topoSort(m map[string][]string) []string {
 		for _, item := range items {
 			if !seen[item] {
 				seen[item] = true
-				visitAll((m[item]))
+				visitAll(m[item])
 				order = append(order, item)
 			}
 		}
